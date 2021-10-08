@@ -31,7 +31,7 @@ Eu estou fazendo uma transição de carreira, estou deixando a educação e indo
 
 <h2> Connect with me / Para falar comigo <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/guilherme-martins-de-lira/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'mailto:gui.lira.martins@gmail.com'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/gmail.svg"/></a>
+<a href = 'mailto:gui.lira.martins@gmail.com'> <img width = '32px' align= 'center' src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/></a>
 
 
 
