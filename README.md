@@ -15,9 +15,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-I'm leaving  the teacher career and going to technology, why am I doing that? Well, I really love new challenges, the feeling of facing the unknow, I understand that this desire of mine, can only be achieved on the i.t field, so here am I. I'd love to talk about new experiences, jobs or projects, just call me.
-
-Eu estou fazendo uma transição de carreira, estou deixando a educação e indo para tecnologia. Estou fazendo isso porque amo me deparar sempre com novos desafios e a sensação do desconhecido e sinto que a tecnologia pode me proporcionar isso. Eu adoraria falar sobres novos projetos e experiencias, basta me chamar.
+Ifood backend dev.
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
   <ul>    
